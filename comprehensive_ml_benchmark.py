@@ -1,6 +1,6 @@
 # =========================================================
 # Pattern Recognition & Machine Learning Pipeline
-# Step 7: Comprehensive Machine Learning Benchmarking Suite
+# Step 10: Comprehensive Machine Learning Benchmarking Suite
 # =========================================================
 
 import numpy as np
