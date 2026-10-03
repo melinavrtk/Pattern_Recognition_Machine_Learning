@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive, Object-Oriented Python pipeline for pattern recognition, predictive modeling, and deep learning. It transitions from raw data processing and "from-scratch" algorithm implementations to advanced scikit-learn benchmarking suites and TensorFlow/Keras neural networks.
 
-## 📂 Pipeline Architecture & Modules
+## Pipeline Architecture & Modules
 
 ### Module 1: Feature Extraction & Data Preprocessing
 * **`01_texture_feature_extraction.py`**: Extracts 1st-order statistical features and 2nd-order texture features using Gray-Level Co-occurrence Matrices (GLCM).
@@ -30,13 +30,13 @@ This repository contains a comprehensive, Object-Oriented Python pipeline for pa
 ### Module 6: Deep Learning
 * **`14_neural_network_mlp_tensorflow.py`**: Implements a Multi-Layer Perceptron (MLP) Neural Network using **TensorFlow/Keras** to classify complex, synthetically generated feature spaces.
 
-## 🛠️ Skills & Technologies Highlighted
+## Skills & Technologies Highlighted
 * **Languages & Frameworks**: Python, `numpy`, `scipy`, `scikit-learn`, `TensorFlow`, `Keras`, `pandas`, `matplotlib`.
 * **Machine Learning Foundation**: Building core algorithms from scratch (Distance Metrics, Covariance Matrices, Eigenvectors).
 * **Deep Learning**: Sequential modeling, Dense layers, ReLU/Softmax activations, categorical cross-entropy loss.
 * **Model Validation**: Algorithmic stability, robust cross-validation, and ROC/AUC analysis.
 
-## 📌 Acknowledgments & Context
+## Acknowledgments & Context
 The foundational concepts and initial Python scripts for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
 
 The current repository represents a heavily refactored and optimized evolution of those academic assignments. The original procedural Python code has been reorganized into robust Object-Oriented pipelines, adhering to modern software engineering practices and industry standards for scalability and readability.
