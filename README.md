@@ -37,9 +37,9 @@ This repository contains a comprehensive, Object-Oriented Python pipeline for pa
 * **Model Validation**: Algorithmic stability, robust cross-validation, and ROC/AUC analysis.
 
 ## 📌 Acknowledgments & Context
-The mathematical foundations and initial implementations for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
+The foundational concepts and initial Python scripts for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
 
-The current repository represents a modernized evolution of those academic assignments. The original MATLAB/procedural scripts have been translated, rewritten into Object-Oriented Python, vectorized for performance, and structured into professional pipelines to bridge the gap between academic theory and industry standards.
+The current repository represents a heavily refactored and optimized evolution of those academic assignments. The original procedural Python code has been reorganized into robust Object-Oriented pipelines, adhering to modern software engineering practices and industry standards for scalability and readability.
 
 ---
 *Curated, refactored, and optimized by a final-year Biomedical Engineering student (University of West Attica), specializing in AI and Medical Data Science.*
