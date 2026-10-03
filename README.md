@@ -35,3 +35,11 @@ This repository contains a comprehensive, Object-Oriented Python pipeline for pa
 * **Machine Learning Foundation**: Building core algorithms from scratch (Distance Metrics, Covariance Matrices, Eigenvectors).
 * **Deep Learning**: Sequential modeling, Dense layers, ReLU/Softmax activations, categorical cross-entropy loss.
 * **Model Validation**: Algorithmic stability, robust cross-validation, and ROC/AUC analysis.
+
+## 📌 Acknowledgments & Context
+The mathematical foundations and initial implementations for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
+
+The current repository represents a modernized evolution of those academic assignments. The original MATLAB/procedural scripts have been translated, rewritten into Object-Oriented Python, vectorized for performance, and structured into professional pipelines to bridge the gap between academic theory and industry standards.
+
+---
+*Curated, refactored, and optimized by a final-year Biomedical Engineering student (University of West Attica), specializing in AI and Medical Data Science.*
